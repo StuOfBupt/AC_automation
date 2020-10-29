@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="AC_automation" targetName="AC_automation" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08397e17-ac18-48cd-9a29-9b855a82e7fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AC_automachine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AC_automachine.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1is14ktTymMetkjUiPBVlzjn5zw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AC_automation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AC_automation" TARGET_NAME="AC_automation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AC_automation" RUN_TARGET_NAME="AC_automation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08397e17-ac18-48cd-9a29-9b855a82e7fe" name="Default Changelist" comment="" />
+      <created>1602681298601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602681298601</updated>
+      <workItem from="1602681303485" duration="1553000" />
+      <workItem from="1602758951929" duration="4963000" />
+      <workItem from="1602832518209" duration="4152000" />
+      <workItem from="1603072344374" duration="12017000" />
+      <workItem from="1603613442759" duration="7392000" />
+      <workItem from="1603623661161" duration="2423000" />
+      <workItem from="1603686810582" duration="1322000" />
+      <workItem from="1603720196071" duration="1314000" />
+      <workItem from="1603787375450" duration="5684000" />
+      <workItem from="1603861126366" duration="504000" />
+      <workItem from="1603878845508" duration="169000" />
+      <workItem from="1603893909159" duration="1369000" />
+      <workItem from="1603942340823" duration="7127000" />
+      <workItem from="1603966806532" duration="2863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1603807066292">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1602772662536" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1603807066292" />
+    <state x="484" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603617573908">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="484" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603617573908" />
+    <state x="404" y="190" key="FileDocumentManager.FileCacheConflict" timestamp="1602772515580">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="404" y="190" key="FileDocumentManager.FileCacheConflict/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1602772515580" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1603955833327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603624473920" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603955833327" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1603879021691" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603076204124" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1603955833326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603624473918" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603955833326" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1603879021689" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603076204123" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1603955833326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.811@0.0.1440.900" timestamp="1603879021713" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603624473917" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603955833326" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1603879021687" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603076204122" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1603955833327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603624473919" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603955833327" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1603879021690" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603076204123" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1603955833316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603623600698" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603955833316" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1603955833315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603623600697" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603955833315" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1603955833315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603623600696" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603955833315" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1603955833315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900/0.-1080.1920.1080@0.0.1440.900" timestamp="1603623600698" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603955833315" />
+    <state x="464" y="159" key="RollbackChangesDialog" timestamp="1603081041512">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="464" y="159" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603081041512" />
+  </component>
+</project>
