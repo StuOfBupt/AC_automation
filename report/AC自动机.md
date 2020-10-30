@@ -91,7 +91,7 @@ void AC_automachine::Insert(char *pattern) {
 
 - 若M的第i个子节点不存在，即`M->child[i] = NULL`,那么令P为P的`fail`域（`P = P->fail`），重新执行上述步骤，直到P为`nullptr`时，将S的`fail`指针指向`root`
 
-<img src="/Users/wangshangrong/Desktop/cs/Ex/Ex_Report/image-20201029194519599.png" alt="image-20201029194519599" style="zoom:50%;" />
+<img src="/report/image-20201029194519599.png" alt="image-20201029194519599" style="zoom:50%;" />
 
 - 构造方式通过队列实现，首先将根节点入队。从队列中取出队列首节点，遍历其所有子节点，执行上述步骤，计算出子节点的`fail`指针后加入队列，直到所有节点的`fail`指针都被构造完成。
 
@@ -152,13 +152,13 @@ void AC_automachine::Build() {
 
 ​	首先构造好的Trie树和`fail`域（指向`root`的`fail`指针省略）
 
-​	<img src="/Users/wangshangrong/Desktop/cs/Ex/Ex_Report/IMG_EDCA972A4A8B-1.png" alt="IMG_EDCA972A4A8B-1" style="zoom: 40%;" />
+​	<img src="/report/IMG_EDCA972A4A8B-1.png" alt="IMG_EDCA972A4A8B-1" style="zoom: 40%;" />
 
 ​	匹配过程中P的跳转路径如下：
 
 ​	`abcdbcd`
 
-​	<img src="/Users/wangshangrong/Downloads/IMG_C380E279F6F2-1.jpeg" alt="IMG_C380E279F6F2-1" style="zoom:40%;" />	
+​	<img src="/report/IMG_C380E279F6F2-1.jpeg" alt="IMG_C380E279F6F2-1" style="zoom:40%;" />	
 
 - P从root开始跳转：
 
@@ -300,10 +300,10 @@ void AC_automachine::MatchByFile(char *filename, char *mode) {
 
 各阶段花费的时间：
 
-<img src="/Users/wangshangrong/Desktop/cs/Ex/Ex_Report/image-20201029215243951.png" alt="image-20201029215243951" style="zoom:50%;" />
+<img src="/report/image-20201029215243951.png" alt="image-20201029215243951" style="zoom:50%;" />
 
 内存峰值：6800MB
 
 输出结果（部分）：
 
-<img src="/Users/wangshangrong/Desktop/cs/Ex/Ex_Report/image-20201029215734074.png" alt="image-20201029215734074" style="zoom: 33%;" />
+<img src="/report/image-20201029215734074.png" alt="image-20201029215734074" style="zoom: 33%;" />
