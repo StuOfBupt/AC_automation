@@ -69,7 +69,7 @@ void AC_automachine::Insert(char *pattern) {
 
 ​	节点的失配指针指向的是**以当前节点表示的字符为最后一个字符**的**最长当前字符串的后缀字符串的最后一个节点，**即，**当前节点表示字符串的最长后缀所在的节点**（这里的后缀不包括当前字符串）
 
-​	<img src="https://github.com/StuOfBupt/AC_automation/blob/main/report/IMG_0307.png" alt="IMG_0307" style="zoom:50%;" />
+​	<img src="/AC_automation/report/IMG_0307.png" alt="IMG_0307" style="zoom:50%;" />
 
 ​	如上图示例，紫色箭头表示节点的`fail`指针指向（指向`root`的箭头不标出）
 
